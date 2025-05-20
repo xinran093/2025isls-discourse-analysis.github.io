@@ -1,4 +1,7 @@
-<img src="/2025isls-discourse-analysis.github.io/static/assets/img/background.jpeg" class="content-image" alt="Background">
+
+
+
+<img src="static/assets/img/background.jpeg" alt="Background Image" class="content-image" >
 
 ### 🌺 Call for Participation
 
