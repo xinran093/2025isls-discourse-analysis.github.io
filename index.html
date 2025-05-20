@@ -32,23 +32,20 @@
     <script type="text/javascript" src="static/js/bootstrap.bundle.min.js"></script>
 
     <!-- For Compatability -->
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/polyfill-library@0.1.0/polyfill.min.js?features=es6"></script>
     
     <!-- Markdown -->
     <script type="text/javascript" src="static/js/marked.min.js"></script>
 
     <!-- Mathematics -->
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script" async></script>
     <script>
         // See https://docs.mathjax.org/en/latest/index.html for more details.
         MathJax = {
             tex: {
-                packages: {},              // extensions to use
-                inlineMath: [              // start/end delimiter pairs for in-line math
-                    ['$', '$'],
-                    ['\\(', '\\)']
-                ],
-                displayMath: [             // start/end delimiter pairs for display math
-                    ['$$', '$$'],
+                packages: ['base'],
+                inlineMath: [["$", "$"], ["\\(", "\\)"]],
+                displayMath: [["$$", "$$"]],
                     ['\\[', '\\]']
                 ],
                 processEscapes: false,      // use \$ to produce a literal dollar sign
