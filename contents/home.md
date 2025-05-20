@@ -1,6 +1,4 @@
-
-
-<img src="/static/assets/img/background.jpeg" class="content-image" alt="Background">
+<img src="/2025isls-discourse-analysis.github.io/static/assets/img/background.jpeg" class="content-image" alt="Background">
 
 ### 🌺 Call for Participation
 
@@ -27,5 +25,3 @@ Join the conference discussion (optional): The symposium will be held at the ISL
 Insights from the annotations will incorporated into the symposium at the conference. 
 
 This symposium marks our first initiative to bring together diverse perspectives to advance research and practices in social annotation, and we hope to plan future events to continue our conversations. Stay tuned! 🎉
-
-
