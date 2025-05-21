@@ -3,28 +3,30 @@
 
 <img src="static/assets/img/background.jpeg" alt="Background Image" class="content-image" >
 
-### 🌺 Call for Participation
+### Towards Actionable Collaborative Discourse Analysis: Bridging Advanced Computational Analysis with Practical Implementation | ISLS 25
 
-Dear Annotators,
+### Call for Participation
 
-We are excited to invite you to contribute to an interdisciplinary symposium on social annotation at the 2024 Annual Meeting of the International Society of the Learning Sciences (ISLS) in Buffalo, NY this June. This symposium aims to explore relevant theories and practical strategies for fostering social annotation in the classroom.
+We are excited to invite you to contribute to an interdisciplinary symposium on <span class="text-red">**actionable discourse analysis**</span> at the 2025 Annual Meeting of the International Society of the Learning Sciences (ISLS) in Helsinki, Finland this June. This symposium aims to establish actionable approaches for integrating computational discourse analytics into pedagogical design to enrich collaborative learning and inform CSCL research and practice.
 
-Social annotation is more than asking students to read together. To go beyond current practices, we are excited to invite you to be part of this initiative by participating in our own social annotation activity – even if you’re not attending the conference. By joining our discussion, you’ll help us expand our collective understanding of social annotation and improve practices as a community.
+This symposium will be a collaborative discourse activity—and the discourse starts before the symposium! Join our <span class="text-red">**pre-conference social annotation**</span> activity, even if you’re not attending the conference. By participating, you’ll help spark collective insights into how discourse analysis methods translate into real-world practice, how CSCL theories support their integration, and what challenges and design principles can guide the path forward.
+
 
 #### Here are two ways to get involved ⤵: 
 
-Annotate the symposium paper: We invite you to annotate our symposium paper via Hypothesis before the conference (June 10), available at: ⭐🔗 https://osf.io/preprints/osf/zrb3y 🔗⭐.  
+1. <span class="text-red"> **Annotate the symposium paper**</span>: We invite you to annotate our symposium paper via Hypothesis before the conference (June 8), available at: ⭐🔗 https://osf.io/preprints/osf/zrb3y 🔗⭐.  
 
-It showcases five projects led by researchers from multiple institutions, each exploring social annotation from unique perspectives. Feel free to check out the annotations made by the   presenters and other participants, annotate, and build knowledge together.  In your annotations, we are particularly interested in learning about:
+It showcases six projects led by researchers from multiple institutions, each exploringthe integration of different discourse analysis techniques, such as networked approaches, multimodal analytics, and clustering analysis, into pedagogically meaningful designs for collaborative learning environments. 
 
-- Who you are; 
+In your annotations, we are particularly interested in learning about:
 
-How specific learning theories, technologies, or applications are relevant to you;
 
-How AI, including Generative AI, could potentially be connected to these areas.
 
-Join the conference discussion (optional): The symposium will be held at the ISLS conference both in person and virtually. You are invited to join the discussion if you plan to attend the conference (a registration fee may apply; details will be shared later).
+
+2. <span class="text-red">**Join the conference discussion (optional)**</span>: The symposium will be held at the ISLS conference both in person and virtually. You are invited to join the discussion if you plan to attend the conference (a registration fee may apply; details will be shared later).
 
 Insights from the annotations will incorporated into the symposium at the conference. 
 
 This symposium marks our first initiative to bring together diverse perspectives to advance research and practices in social annotation, and we hope to plan future events to continue our conversations. Stay tuned! 🎉
+
+
