@@ -47,8 +47,54 @@ body {
     line-height: 1.6;
 }
 
+/* Reduce line spacing for annotate paper section */
+#publications p {
+    line-height: 1.2;
+    margin-bottom: 1rem;
+}
+
+#publications ul, #publications ol {
+    margin-bottom: 0.3rem;
+    padding-left: 1.5rem;
+}
+
+#publications li {
+    line-height: 1.2;
+    margin-bottom: 0.2rem;
+}
+
 .text-red {
     color: #ff0000;
+}
+
+/* Make h4 headings blue in publications section */
+#publications h4 {
+    color: #0d47a1;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+/* Add spacing after h5 headings */
+#publications h5 {
+    margin-bottom: 1.2rem;
+}
+
+/* Add spacing after br tags */
+#publications br {
+    display: block;
+    margin: 1rem 0;
+}
+
+/* Style for author list */
+#publications > div > p {
+    font-size: 0.9em;
+    line-height: 1.2;
+    margin-bottom: 0.5rem;
+}
+
+/* Style for author roles */
+#publications > div > p span {
+    font-weight: 500;
 }
 
 /* Gitalk Comment Box Styling */
