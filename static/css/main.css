@@ -1,6 +1,6 @@
 @import "./styles.css";
 
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 :root{
     --h-title-color:#000000;
@@ -9,7 +9,57 @@
 }
 
 body {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.95rem;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+/* Make h4 in call for participation more prominent */
+.call-for-participation h4 {
+    font-size: 1.5rem;
+    color: #333333;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+.navbar-brand {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.9rem;
+    color: var(--bs-black);
+    letter-spacing: 0.5px;
+    padding: 0.5rem 0;
 }
 
 .header {
@@ -17,6 +67,14 @@ body {
     z-index: 10000;
     margin: 0;
     padding: 0;
+}
+
+.navbar-brand {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: var(--bs-black);
+    letter-spacing: 0.5px;
+    padding: 0.5rem 0;
 }
 
 .bg-bottom {
@@ -43,24 +101,72 @@ body {
     margin: 0 0 3rem;
 }
 
-.main-body p {
+/* Paragraph styling */
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 0.8rem;
+}
+
+/* Call for participation section paragraphs */
+.call-for-participation p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+/* Call for participation section lists */
+.call-for-participation ol, .call-for-participation ul {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+}
+
+.call-for-participation li {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
+}
+
+/* Style for text inside list items */
+.call-for-participation ol li, .call-for-participation ul li {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
     line-height: 1.6;
 }
 
 /* Reduce line spacing for annotate paper section */
 #publications p {
-    line-height: 1.2;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.6;
     margin-bottom: 1rem;
 }
 
 #publications ul, #publications ol {
-    margin-bottom: 0.3rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
     padding-left: 1.5rem;
 }
 
 #publications li {
-    line-height: 1.2;
-    margin-bottom: 0.2rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 0.5rem;
 }
 
 .text-red {
