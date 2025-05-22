@@ -17,13 +17,13 @@ We are excited to invite you to contribute to an interdisciplinary symposium on 
 You are invited to be a part of this even if you’re not attending the conference. By participating, you’ll help spark collective insights into how discourse analysis methods translate into real-world practice, how CSCL theories support their integration, and what challenges and design principles can guide the path forward.
 </p>
 
-<h5>Here are two ways to get involved ⤵:</h5>
+<h5>Here are two ways to get involved:</h5>
 <ol>
   <li>
   <p style="font-size: 0.85em; line-height: 1.4;">
     <strong style="color:rgb(146, 41, 2);font-weight: normal;">Annotate the Symposium Paper</strong>: Annotate our symposium paper below using Hypothesis before the conference (by June 8). Here is a: <a href="https://web.hypothes.is/help/quick-start-guide/" target="_blank">3-step quick start guide for Hypothesis</a></p>
     <p style="font-size: 0.85em; line-height: 1.4;">The paper showcases five projects led by researchers from multiple institutions, each exploring the integration of different discourse analysis techniques—such as networked approaches, multimodal analytics, and clustering analysis—into pedagogically meaningful designs for collaborative learning environments.</p>
-    <p style="font-size: 0.85em; line-height: 1.4;">In your annotations, we are particularly interested in learning about:</p>
+    <p style="font-size: 0.85em; line-height: 1.4;">In your annotations, we are particularly interested in learning about: (tentative) </p>
     <ul>
       <li style="font-size: 0.85em; line-height: 1;">Who you are and what your background is?</li>
       <li style="font-size: 0.85em; line-height: 1;">What ideas resonate most with you?</li>   
@@ -37,7 +37,8 @@ You are invited to be a part of this even if you’re not attending the conferen
 <strong>Session Time:</strong><br>
   Tuesday, June 10, 2025<br>
   16:30–18:00 EEST (Helsinki)<br>
- 08:30–10:00 CT (Chicago)
+  09:30–11:00 EDT (New York)<br>
+  Find your time: <a href="https://www.timeanddate.com/worldclock/converter.html?iso=20250610T133000&p1=101&p2=179&p3=64&p4=248&p5=235&p6=33&p7=136&p8=176" target="_blank">Time Zone Converter</a>
 </p>
 </li>
 </ol>
