@@ -1,6 +1,6 @@
 @import "./styles.css";
 
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+/* Removed Open Sans import */
 
 :root{
     --h-title-color:#000000;
@@ -9,31 +9,31 @@
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 0.95rem;
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-size: 1.5rem;
 }
 
 h2 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-size: 1.3rem;
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-size: 1.2rem;
 }
 
 h4 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-size: 1.4rem;
     margin-bottom: 1rem;
@@ -48,13 +48,13 @@ h4 {
 }
 
 h5, h6 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 600;
     font-size: 1.25rem;
 }
 
 .navbar-brand {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 0.9rem;
     color: var(--bs-black);
@@ -137,7 +137,7 @@ p {
 
 /* Style for text inside list items */
 .call-for-participation ol li, .call-for-participation ul li {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.6;
@@ -145,7 +145,7 @@ p {
 
 /* Reduce line spacing for annotate paper section */
 #publications p {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.6;
@@ -153,7 +153,7 @@ p {
 }
 
 #publications ul, #publications ol {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.6;
@@ -162,7 +162,7 @@ p {
 }
 
 #publications li {
-    font-family: 'Open Sans', sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.6;
@@ -180,6 +180,16 @@ p {
     margin-bottom: 1.5rem;
 }
 
+#publications h4 a {
+    color: #333333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #333333;
+    text-decoration: underline;
+}
+
 /* Add spacing after h5 headings */
 #publications h5 {
     margin-bottom: 1.2rem;
@@ -189,6 +199,17 @@ p {
 #publications br {
     display: block;
     margin: 1rem 0;
+}
+
+/* Link styles */
+a {
+    color: #0d47a1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0d47a1;
+    text-decoration: underline;
 }
 
 /* Style for author list */
