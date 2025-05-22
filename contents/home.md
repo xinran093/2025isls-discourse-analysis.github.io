@@ -17,7 +17,7 @@ We are excited to invite you to contribute to an interdisciplinary symposium on 
 You are invited to be a part of this even if you’re not attending the conference. By participating, you’ll help spark collective insights into how discourse analysis methods translate into real-world practice, how CSCL theories support their integration, and what challenges and design principles can guide the path forward.
 </p>
 
-<h5>Here are two ways to get involved:</h5>
+<h5 style="margin-bottom: 0.5rem; color:rgb(72, 74, 77);">Here are two ways to get involved:</h5>
 <ol>
   <li>
   <p style="font-size: 0.85em; line-height: 1.4;">
