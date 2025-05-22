@@ -1,6 +1,15 @@
+<p style="font-size: 0.8em; font-weight: bold; color:rgb(72, 74, 77); line-height: 1.4;">In your annotations, we are particularly interested in learning about: </p>
+    <ul>
+      <li style="font-size: 0.8em; line-height: 1.2;">Who you are and what your background is?</li>
+      <li style="font-size: 0.8em; line-height: 1.2;">How might you translate these methods and applications into your own teaching, learning, or research?</li>   
+      <li style="font-size: 0.8em; line-height: 1.2;">What challenges or questions do you see regarding actionability in each project and in your own practice?</li>
+       <li style="font-size: 0.8em; line-height: 1.2;">How do you see these projects building on or expanding CSCL theories like knowledge building or joint attention?</li>
+      <li style="font-size: 0.8em; line-height: 1.2;">What connections, tensions, or opportunities do you notice across the presentations in relation to the broader theme towards actionable collaborative discourse analysis?</li>
+    </ul>
+
 
 <div style="text-align: center; margin: 2rem 0; font-family: 'Open Sans', sans-serif;">
-    <h3 style="font-weight: normal;">Towards Actionable Collaborative Discourse Analysis: Bridging Advanced Computational Analysis with Practical Implementation</h3>
+    <h3 style="font-weight: normal; color: #0d47a1;">Towards Actionable Collaborative Discourse Analysis: Bridging Advanced Computational Analysis with Practical Implementation</h3>
 </div>
 <div style="text-align: center; margin: 1rem 0; font-size: 0.75em; line-height: 1.2;>
     <p style="margin: 0;">

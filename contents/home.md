@@ -23,13 +23,9 @@ You are invited to be a part of this even if you’re not attending the conferen
   <p style="font-size: 0.85em; line-height: 1.4;">
     <strong style="color:rgb(146, 41, 2);font-weight: normal;">Annotate the Symposium Paper</strong>: Annotate our symposium paper below using Hypothesis before the conference (by June 8). Here is a: <a href="https://web.hypothes.is/help/quick-start-guide/" target="_blank">3-step quick start guide for Hypothesis</a></p>
     <p style="font-size: 0.85em; line-height: 1.4;">The paper showcases five projects led by researchers from multiple institutions, each exploring the integration of different discourse analysis techniques—such as networked approaches, multimodal analytics, and clustering analysis—into pedagogically meaningful designs for collaborative learning environments.</p>
-    <p style="font-size: 0.85em; line-height: 1.4;">In your annotations, we are particularly interested in learning about: (tentative) </p>
-    <ul>
-      <li style="font-size: 0.85em; line-height: 1;">Who you are and what your background is?</li>
-      <li style="font-size: 0.85em; line-height: 1;">What ideas resonate most with you?</li>   
-      <li style="font-size: 0.85em; line-height: 1;">What questions or challenges come to mind?</li>
-      <li style="font-size: 0.85em; line-height: 1;">How might these approaches apply to your own context?</li>
-    </ul>
+
+<p style="font-size: 0.85em; line-height: 1.4;">In your annotations, we’re particularly interested in how you make sense of these approaches and practices in relation to your own experience and context, and how they might inform broader insights into advancing CSCL research and practice.</p>
+
   </li>
 <li> 
 <p style="font-size: 0.85em; line-height: 1.4;"><strong style="color:rgb(146, 41, 2); font-weight: normal;">Join the Conference Discussion (optional)</strong>: The symposium will take place at the ISLS Conference, both in person and online. If you’re attending, we warmly welcome you to join the discussion. Details will be shared with all participants who contribute annotations.</p>
