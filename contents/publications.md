@@ -20,8 +20,8 @@
     </p>
 </div>
 
-<div style="text-align: justify; margin: 1rem 5%; font-size: 0.8em; line-height: 1.5;">
-    <p style="text-align: justify; margin: 1rem 5%; font-size: 1em; line-height: 1.5;">
+<div style="text-align: justify; margin: 1rem 5%; font-size: 0.8em; line-height: 1.4;">
+    <p style="text-align: justify; margin: 1rem 5%; font-size: 1em; line-height: 1.4;">
         <strong style="color: #0d47a1; font-weight: bold;">Abstract:</strong> Since the inception of learning analytics, the CSCL community has been applying a range of methods to examine collaborative discourse, such as natural language processing and networked approaches. Despite significant advancements in methods, a critical gap persists in translating these data-driven insights into actionable strategies to inform pedagogical decisions. The proposed hybrid symposium seeks to bridge this gap by engaging learning scientists, CSCL researchers, and educators in discussions that integrate advanced discourse analytics with pedagogical design. Through five diverse presentations, the symposium will explore the integration of advanced discourse analysis techniques, such as networked approaches, multimodal analytics, and clustering analysis, into pedagogically meaningful designs and actionable pedagogical insights for collaborative learning environments. By fostering dialogue on the challenges and opportunities in contextualizing computational insights, this symposium aims to establish actionable approaches for enriching collaborative discourse and advancing the broader CSCL community’s theoretical, methodological, and practical understanding.
     </p>
 </div>
@@ -40,10 +40,10 @@ Despite these significant advancements in the field, discourse analysis often re
    <p style="font-size: 0.8em; line-height: 1.4;">
 To achieve these goals, this symposium brings together five presentations from scholars across diverse institutions who have been actively exploring the applications of computational discourse analysis in learning contexts. Each presentation offers a unique lens for contextualizing discourse analytics in CSCL practices. These include: uncovering the multi-layered dynamics of idea advancement in knowledge building (Oshima & Oshima); capturing the socio-cognitive and temporal patterns of student participation in social annotation activities (Zhu, Chen, & Jung); analyzing the structural and temporal dimensions of knowledge construction in gamified asynchronous discussions (Moon, McNeill, Edmonds, Banihashem, & Noroozi); leveraging multimodal nonverbal analytics to investigate small group interactions (Dey & Puntambekar); and examining how students interact with generative AI over time in knowledge construction discourse (Jung & Jackson). Key questions that each presentation will respond include:
 <ol>
-    <li style="font-size: 0.9em; line-height: 1.2; margin: 0.5rem 5%;">What kinds of computational analysis methods can be effectively translated into pedagogically meaningful designs that foster collaborative learning in practice? How?</li>
-    <li style="font-size: 0.9em; line-height: 1.2; margin: 0.5rem 5%;">What are the current challenges and opportunities in applying advanced discourse analytics to the design of collaborative learning activities?</li>
-    <li style="font-size: 0.9em; line-height: 1.2; margin: 0.5rem 5%;">In what ways can existing CSCL theories inform the integration of computational discourse analysis into technology-enhanced learning activities?</li>
-    <li style="font-size: 0.9em; line-height: 1.2; margin: 0.5rem 5%;">What approaches or principles can be developed to guide future research and design efforts that aim to foster more meaningful collaborative discourse using computational analysis?</li>
+    <li style="font-size: 0.85em; line-height: 1.2; margin: 0.5rem 5%;">What kinds of computational analysis methods can be effectively translated into pedagogically meaningful designs that foster collaborative learning in practice? How?</li>
+    <li style="font-size: 0.85em; line-height: 1.2; margin: 0.5rem 5%;">What are the current challenges and opportunities in applying advanced discourse analytics to the design of collaborative learning activities?</li>
+    <li style="font-size: 0.85em; line-height: 1.2; margin: 0.5rem 5%;">In what ways can existing CSCL theories inform the integration of computational discourse analysis into technology-enhanced learning activities?</li>
+    <li style="font-size: 0.85em; line-height: 1.2; margin: 0.5rem 5%;">What approaches or principles can be developed to guide future research and design efforts that aim to foster more meaningful collaborative discourse using computational analysis?</li>
 </ol>
 
 </p>
