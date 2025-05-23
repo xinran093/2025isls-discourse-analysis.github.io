@@ -21,7 +21,7 @@ You are invited to be a part of this even if you’re not attending the conferen
 <ol>
   <li>
   <p style="font-size: 0.85em; line-height: 1.4;">
-    <strong style="color:rgb(146, 41, 2);font-weight: normal;">Annotate the Symposium Paper</strong>: Annotate our symposium paper below using Hypothesis before the conference (by June 8). Here is a: <a href="https://web.hypothes.is/help/quick-start-guide/" target="_blank">3-step quick start guide for Hypothesis</a></p>
+    <strong style="color:rgb(146, 41, 2);font-weight: normal;">Annotate the Symposium Paper</strong>: Annotate our symposium paper below using Hypothesis before the conference (by June 5). Here is a: <a href="https://web.hypothes.is/help/quick-start-guide/" target="_blank">3-step quick start guide for Hypothesis</a></p>
     <p style="font-size: 0.85em; line-height: 1.4;">The paper showcases five projects led by researchers from multiple institutions, each exploring the integration of different discourse analysis techniques—such as networked approaches, multimodal analytics, and clustering analysis—into pedagogically meaningful designs for collaborative learning environments.</p>
 
 <p style="font-size: 0.85em; line-height: 1.4;">In your annotations, we’re particularly interested in how you make sense of these approaches and practices in relation to your own experience and context, and how they might inform broader insights into advancing CSCL research and practice.</p>
